@@ -11,8 +11,21 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // hello world again
+        //Comment1
+        //Comment1
+        //Comment1
+        //Comment1
+        //Comment1
+        //Comment1
+        //Comment1
+        //Comment1
+        // hello world again
         //jkkhjkhkhjjhk
-sdfdsf
+        //jjj
         //hjkhjkhkj
+        /sa/dasdas
+
+
+                //asdasd
     }
 }

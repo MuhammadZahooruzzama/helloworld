@@ -21,7 +21,10 @@ public class MainActivity extends AppCompatActivity {
         //Comment1
         // hello world again
         //jkkhjkhkhjjhk
+<<<<<<< HEAD
         //jjj
+=======
+>>>>>>> master
         //hjkhjkhkj
         /sa/dasdas
 

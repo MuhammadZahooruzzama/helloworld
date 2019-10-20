@@ -23,9 +23,6 @@ public class MainActivity extends AppCompatActivity {
         //jkkhjkhkhjjhk
         //jjj
         //hjkhjkhkj
-        /sa/dasdas
-
-
                 //asdasd
     }
 }
